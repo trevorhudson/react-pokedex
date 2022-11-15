@@ -1,0 +1,14 @@
+.Pokedex {
+  margin: 2rem;
+  padding: 1rem;
+  border: 1px solid green;
+}
+
+.Pokedex h2 {
+  text-align: center;
+}
+
+.Pokedex > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

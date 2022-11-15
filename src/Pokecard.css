@@ -1,0 +1,12 @@
+.Pokecard {
+  padding: 1rem;
+  width: 200px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px dotted black;
+  border-radius: 10%;
+  margin: 1rem;
+}
